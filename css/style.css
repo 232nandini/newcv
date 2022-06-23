@@ -41,6 +41,12 @@ hr{
   width: 90px;
   margin: 100px auto 100px auto;
 }
+
+a{
+  color: #11999E;
+  margin: 10px 20px;
+}
+
 .top-container {
   background-color: #8FBDD3;
   position: relative;
@@ -114,7 +120,7 @@ hr{
 
 .btn {
   margin-top: 50px;
-  padding:70px;
+  padding:10px 20px 10px 20px;
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
   background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
@@ -125,7 +131,7 @@ hr{
   -moz-border-radius: 8;
   border-radius: 8px;
   text-shadow: 1px 1px 3px #666666;
-  font-family: Arial;
+  font-family: 'Montserrat', sans-serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
