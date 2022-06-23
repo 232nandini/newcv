@@ -52,6 +52,11 @@ a:hover{
   color: white;
 }
 
+.copyright{
+  font-size: 0.7rem;
+}
+
+
 .top-container {
   background-color: #8FBDD3;
   position: relative;
