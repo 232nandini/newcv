@@ -48,6 +48,10 @@ a{
   text-decoration: none;
 }
 
+a:hover{
+  color: white;
+}
+
 .top-container {
   background-color: #8FBDD3;
   position: relative;
